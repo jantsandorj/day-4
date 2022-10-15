@@ -1,0 +1,64 @@
+body{
+    display: flex;
+    margin: auto;
+    max-width: 1100px;
+}
+img{
+    width: 150px;
+    height: 150px;
+    display: block;
+    border-radius: 50%;
+    margin: auto;
+}
+.leftside{
+    width: 30%;
+    background-color: orange;
+    margin-left: 20px;
+    
+}
+.leftside article{
+    margin: 0 20px;
+}
+.leftside p{
+    font-size: 24px;
+}
+.rightside{
+    width: 70%;
+    margin: 0 20px;
+}
+h2{
+    font-size: 24px;
+    color: orange;
+}
+.leftside h2{
+    color: rgb(22, 22, 187);
+}
+.leftside p{
+    color: whitesmoke;
+    font-size: 20px;
+}
+h1{
+    color: aquamarine;
+    font-size: 48px;
+    margin: 0px;
+    margin-top: 50px;
+}
+h3{
+    color: orange;
+    font-size: 36px;
+    margin: 0px;
+}
+.rightside p{
+    font-size: 20px;
+    color: rgb(16, 16, 158);
+}
+.ehlel{
+    margin-top: 50px;
+    display: inline-block;
+}
+.ref p{
+    margin: 0px;
+}
+.ref{
+    margin-top: 20px;
+}
